@@ -5,6 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>AudioScript</Text>
+      <Text>AudioScript</Text>
+      <Text>AudioScript</Text>
       <StatusBar style="auto" />
     </View>
   );
